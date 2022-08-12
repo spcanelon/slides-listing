@@ -4,10 +4,10 @@ project:
 website:
   title: "slides-listing"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/spcanelon/slides-listing
+        aria-label: GitHub repo
 
 format:
   html:

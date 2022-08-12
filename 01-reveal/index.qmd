@@ -1,0 +1,7 @@
+---
+title: "01-reveal"
+author: "Silvia Canelón"
+format:
+  revealjs:
+    history: false
+---

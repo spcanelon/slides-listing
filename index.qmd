@@ -1,7 +1,13 @@
 ---
-title: "slides-listing"
+title: "Slides"
+listing:
+  contents:
+    - "*/index.qmd"
+    - "02-xaringan/index.html"
+  type: grid
+  image-height: 100%
+  image-placeholder: featured-default.png
+  fields: [image, title, filename, date, author, description]
+  sort: "date desc"
+page-layout: full
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
